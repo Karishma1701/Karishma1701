@@ -1,4 +1,4 @@
-![logo]("C:\Users\Dell\Downloads\Blue and Blue Navy Futuristic Gaming Channel YouTube Intro.mp4")
+![logo]("Blue and Blue Navy Futuristic Gaming Channel YouTube Intro.mp4")
 <h1 align="center">Hi 👋, I'm Karishma</h1>
 <h3 align="center">A passionate Web Development from India</h3>
 
