@@ -1,7 +1,8 @@
+![logo]("C:\Users\Dell\Downloads\Blue and Blue Navy Futuristic Gaming Channel YouTube Intro.mp4")
 <h1 align="center">Hi 👋, I'm Karishma</h1>
 <h3 align="center">A passionate Web Development from India</h3>
 
-
+<img align="right"alt="coding"width="400"src=""
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karishma&label=Profile%20views&color=0e75b6&style=flat" alt="karishma" /> </p>
 
