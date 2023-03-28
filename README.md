@@ -1,7 +1,7 @@
 
 <!--*************** Title ***************-->
 <h1 align="center">
-Hi 👋 there, I'm Karishma
+Hi 👋  Technies, I'm Karishma
 <br/>
 Welcome to my Profile!!!
   
