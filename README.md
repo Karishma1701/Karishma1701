@@ -1,8 +1,10 @@
-![logo]("Blue and Blue Navy Futuristic Gaming Channel YouTube Intro.mp4")
+![logo]("![image](https://user-images.githubusercontent.com/107717923/228160961-26d1c647-f762-4084-807a-88125001c063.png)
+")
 <h1 align="center">Hi 👋, I'm Karishma</h1>
 <h3 align="center">A passionate Web Development from India</h3>
 
-<img align="right"alt="coding"width="400"src=""
+<img align="right"alt="coding"width="400"src="![image](https://user-images.githubusercontent.com/107717923/228153274-c11eb6ca-4171-4ecc-9a8b-ab4c4e927fc9.png)
+"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karishma&label=Profile%20views&color=0e75b6&style=flat" alt="karishma" /> </p>
 
