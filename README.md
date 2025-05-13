@@ -48,6 +48,6 @@ Welcome to my Profile!!!
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karishma&show_icons=true&locale=en" alt="karishma" /></p>
+
 
 
