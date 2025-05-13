@@ -24,26 +24,23 @@ Welcome to my Profile!!!
 ![image](https://user-images.githubusercontent.com/107717923/228164535-f58336d9-b7f1-4f9c-a73c-b9300ded9028.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karishma&label=Profile%20views&color=0e75b6&style=flat" alt="karishma" /> </p>
 
-- 🔭 I’m currently working on **Desktop Assistant**
+- 🔭 I’m currently working in ** C-DAC PATA **as a ** High Performance Computing , Networking AND Cloud Computing ** Intern
 
-- 🌱 I’m currently learning **DSA , Full Stack Development**
+- 🌱 I’m currently learning **Networking ,HPC ,AWS**
 
 - 👨‍💻 All of my projects are available at [https://mypersonalportfholio.netlify.app/](https://mypersonalportfholio.netlify.app/)
 
 - 📫 How to reach me **Karishmasonkar8192@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1eTk6ddQ2cWGtk5Z_GEQJtvW_FcLx6-Kd](https://drive.google.com/drive/folders/1eTk6ddQ2cWGtk5Z_GEQJtvW_FcLx6-Kd)
-
 - ⚡ Fun fact **I Think I am a Friendly Nature Guy..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ms.karishma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ms.karishma" height="30" width="40" /></a>
-<a href="https://instagram.com/karishma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karishma" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/karishma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="karishma" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/karishma8171" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="karishma8171" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/karishma8171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karishma8171" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/karishma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="karishma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ms-karishma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ms.karishma" height="30" width="40" /></a>
+<a href="https://www.instagram.com/karishma_1706/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karishma" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@karishma5090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="karishma" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Karishma8171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karishma8171" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
