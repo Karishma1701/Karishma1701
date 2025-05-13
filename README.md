@@ -50,4 +50,4 @@ Welcome to my Profile!!!
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karishma&show_icons=true&locale=en" alt="karishma" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karishma&" alt="karishma" /></p>
+
