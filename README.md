@@ -17,14 +17,14 @@ Welcome to my Profile!!!
 
 
 
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 
 
 ![image](https://user-images.githubusercontent.com/107717923/228164535-f58336d9-b7f1-4f9c-a73c-b9300ded9028.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karishma&label=Profile%20views&color=0e75b6&style=flat" alt="karishma" /> </p>
 
-- 🔭 I’m currently working in ** C-DAC PATA **as a ** High Performance Computing , Networking AND Cloud Computing ** Intern
+- 🔭 I’m currently working in ** C-DAC PATNA **as a ** High Performance Computing , Networking AND Cloud Computing ** Intern
 
 - 🌱 I’m currently learning **Networking ,HPC ,AWS**
 
